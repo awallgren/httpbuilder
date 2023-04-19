@@ -23,8 +23,8 @@ package groovyx.net.http;
 
 import groovy.json.JsonSlurper;
 import groovy.lang.Closure;
-import groovy.util.XmlSlurper;
-import groovy.util.slurpersupport.GPathResult;
+import groovy.xml.XmlSlurper;
+import groovy.xml.slurpersupport.GPathResult;
 import groovyx.net.http.HTTPBuilder.RequestConfigDelegate;
 
 import java.io.IOException;

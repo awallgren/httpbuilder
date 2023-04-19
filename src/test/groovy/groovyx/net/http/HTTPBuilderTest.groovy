@@ -1,5 +1,7 @@
 package groovyx.net.http
-import groovy.util.slurpersupport.GPathResult
+
+import groovy.xml.XmlSlurper
+import groovy.xml.slurpersupport.GPathResult
 import org.apache.http.client.HttpResponseException
 import org.junit.Ignore
 import org.junit.Test

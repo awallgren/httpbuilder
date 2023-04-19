@@ -4,7 +4,7 @@ import org.junit.Ignore
 import org.junit.Test
 import org.junit.Before
 import junit.framework.Assert
-import groovy.util.slurpersupport.GPathResult
+import groovy.xml.slurpersupport.GPathResult
 import org.apache.http.params.HttpConnectionParams
 import static groovyx.net.http.ContentType.*
 

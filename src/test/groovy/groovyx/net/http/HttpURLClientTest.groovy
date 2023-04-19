@@ -1,5 +1,6 @@
 package groovyx.net.http
 
+import groovy.xml.XmlSlurper
 import org.junit.Ignore
 import org.junit.Test
 

@@ -1,6 +1,7 @@
 package groovyx.net.http.thirdparty
 
-import groovy.util.slurpersupport.GPathResult;
+import groovy.xml.XmlSlurper
+import groovy.xml.slurpersupport.GPathResult;
 import groovyx.net.http.HttpResponseException;
 import groovyx.net.http.ParserRegistry;
 import groovyx.net.http.thirdparty.GAEConnectionManager;
